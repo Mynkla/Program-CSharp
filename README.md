@@ -1,3 +1,6 @@
 # Test-Csharp
-"dotnet run"
 Some New Method which i learn on Programming Language, After you learn it comes new overview
+Remember 
+⋅ Code on Program.cs
+⋅ Compiler "dotnet run"
+⋅ Please Read dotnet_run.txt
