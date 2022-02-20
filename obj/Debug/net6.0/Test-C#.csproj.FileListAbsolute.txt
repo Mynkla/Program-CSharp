@@ -1,0 +1,15 @@
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\Test-C#.csproj.AssemblyReference.cache
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\Test-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\Test-C#.AssemblyInfoInputs.cache
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\Test-C#.AssemblyInfo.cs
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\Test-C#.csproj.CoreCompileInputs.cache
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\bin\Debug\net6.0\Test-C#.exe
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\bin\Debug\net6.0\Test-C#.deps.json
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\bin\Debug\net6.0\Test-C#.runtimeconfig.json
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\bin\Debug\net6.0\Test-C#.dll
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\bin\Debug\net6.0\ref\Test-C#.dll
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\bin\Debug\net6.0\Test-C#.pdb
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\Test-C#.dll
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\ref\Test-C#.dll
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\Test-C#.pdb
+D:\Game_-Devlopment\Programing\C#\Project\Test-C#\obj\Debug\net6.0\Test-C#.genruntimeconfig.cache
