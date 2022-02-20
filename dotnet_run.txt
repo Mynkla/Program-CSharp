@@ -1,0 +1,15 @@
+cd D:\Game_-Devlopment\Programing\C#\Project\Test-C#>dotnet new console
+code .
+
+dotnet run OR "csharp": "cd $dir && dotnet run $fileName"
+dotnet run --project Test.cs
+dotnet Test.cs
+
+dotnet run fileName.dll
+cd "d:\Game_-Development\Programing\C#\Project\Test-C#\Test.cs" && dotnet run Test.cs
+cd "d:\Game_-Development\Programing\C#\Project\Test-C#\Test.cs" ; if (&?) { dotnet run Test.cs }
+
+Failed to load a language-csharp package grammar { 
+atom.grammars.startIdForScope is not a function in C:\Users\Mayank Kela\AppData\Local\atom\app-1.59.0\resources\app.asar\node_modules\language-csharp\grammars\csharp.json
+atom.grammars.startIdForScope is not a function in C:\Users\Mayank Kela\AppData\Local\atom\app-1.59.0\resources\app.asar\node_modules\language-csharp\grammars\csx.json
+}
